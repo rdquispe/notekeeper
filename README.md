@@ -1,1 +1,4 @@
-# simple-notes
+# notekeeper
+
+Android Project (using Java)
+
